@@ -1,0 +1,24 @@
+笔记：
+1.冒泡排序（bubble）、归并排序（merge）
+2.双指针方法，指针的存在是在描述内存
+	#include<stdio.h>
+	int B=2;
+	void func(**p)
+	{
+ 	    *p=&B;
+	}
+	int main()
+	{
+	   int A=1;C=3;
+	   int *ptrA=&A;
+	   func(&ptrA);
+	   printf("%d",*ptrA);
+	   return 0;
+	}
+
+3.ARM架构：
+①内存的阶层性：服务器cpu和memory时间落差较大，memory与Disk落差很大（100万倍），所以服务器的内存很大。
+②ARM与MIPS：coherence一致性/coherency一致的行为
+	     pipeline流水线 
+	     dual issue同一时间执行两条指令
+	     Bus硬件上的总线对性能的影响很大
