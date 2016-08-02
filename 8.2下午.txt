@@ -5,3 +5,5 @@ RISC/CISC ARM采用RISC
 cpu->memory store   memory->cpu load
 load-store架构，数据都要经过寄存器
 10000111  补码：11111001
+
+王安 16位计算机
