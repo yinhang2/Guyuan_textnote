@@ -1,0 +1,7 @@
+笔记：
+ARM结构：Trustzone线上交易，线上支付
+ARM A-应用 R-实时 M-控制器 ISA指令集架构
+RISC/CISC ARM采用RISC
+cpu->memory store   memory->cpu load
+load-store架构，数据都要经过寄存器
+10000111  补码：11111001
