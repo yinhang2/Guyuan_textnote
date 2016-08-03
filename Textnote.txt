@@ -22,3 +22,28 @@
 	     pipeline流水线 
 	     dual issue同一时间执行两条指令
 	     Bus硬件上的总线对性能的影响很大
+
+ARM结构：Trustzone线上交易，线上支付
+ARM A-应用 R-实时 M-控制器 ISA指令集架构
+RISC/CISC ARM采用RISC
+cpu->memory store   memory->cpu load
+load-store架构，数据都要经过寄存器
+10000111  补码：11111001
+
+王安 16位计算机
+
+c语言Ray tracing光纤追踪：利用反射和折射来模拟
+atomic 事务
+*arr[3]=*(arr+3)=*3[arr];加法的交换性
+
+void reverse(char *s,char *e)
+{
+	char tmp;
+	if(e<=s) return;
+	tmp=*s;
+	*s=*e;
+	*e=tmp;
+	reverse(s+1,e-1);
+} 
+
+autovectorization
