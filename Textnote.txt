@@ -47,3 +47,15 @@ void reverse(char *s,char *e)
 } 
 
 autovectorization
+badUsb blackhat
+CCI400 snoop control unit决定性能
+多核：功耗power、指令和内存ilp、内存memory、单一核心超频性能提高13%耗能需要提高73%，双核的话需要降频。 	
+	out-of-order execution乱序执行	big、LITTLE架构
+
+
+-9-5=-14
+-1001-0101=10001001原+10000101=11110111
+                              +11111011
+                            ---------------
+			       11110010（补）    10001110=-14
+IOMMU：把很多小区块拼凑在一起供Gpu
