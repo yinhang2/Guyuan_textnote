@@ -59,3 +59,16 @@ CCI400 snoop control unit决定性能
                             ---------------
 			       11110010（补）    10001110=-14
 IOMMU：把很多小区块拼凑在一起供Gpu
+
+POSIX国际规范：通用的操作系统的规范
+
+quick sort o(n^2) o(nlogn)
+
+soft real time 软实时 
+
+deterministic 在可预测的前提下
+
+preempt 抢断,抢占
+
+performance 性能:单位时间内符合的比率
+
