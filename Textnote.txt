@@ -72,3 +72,9 @@ preempt 抢断,抢占
 
 performance 性能:单位时间内符合的比率
 
+irq line/tickless
+
+clock稳定信号源/timer计时器a
+
+
+
